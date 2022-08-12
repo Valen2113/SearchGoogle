@@ -1,0 +1,22 @@
+{
+  "name": "search_google",
+  "version": "1.0.0",
+  "description": "Test automatizado para HelloBuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valen2113/SearchGoogle.git"
+  },
+  "author": "Valentina Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valen2113/SearchGoogle/issues"
+  },
+  "homepage": "https://github.com/Valen2113/SearchGoogle#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
